@@ -9,6 +9,7 @@ public class Test {
         System.out.println(33);
         System.out.println(444);
 
+        System.out.println("aaa");
 
     }
 }
